@@ -1,2 +1,3 @@
 # ts-with-nodejs
-NodeJS and TypeScript
+
+Using NodeJS with TypeScript and Express
